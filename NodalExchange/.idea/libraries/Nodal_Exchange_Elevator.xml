@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Nodal+Exchange+Elevator">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Nodal+Exchange+Elevator.jar!/" />
+    </SOURCES>
+  </library>
+</component>
